@@ -16,6 +16,7 @@
 -->
 
 # Hudi VECTOR + BLOB demos — Jupyter notebooks
+# 04.29.2026
 
 Notebook variants of the three `.py` demos in the parent folder. Same end
 state, same Spark / Hudi / Lance jars, but code + narrative + output panels
